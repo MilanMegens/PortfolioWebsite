@@ -12,6 +12,7 @@
                 In periode 3 van leerjaar 1 op het MBO. We moesten met behulp van PHP
                 een vragenlijst maken en wij hebben een vacature advies vragenlijst gemaakt.
                 Ik heb de meeste PHP gedaan in het project en mijn teamgenoten vooral de css en html.
+                (Dit is geen responsive website dus is mogelijk niet mooi op mobiel)
             </p>
             <button onclick="window.open('websites/linkedin/Voorpagina.php', '_blank')">Bekijk project &#x2192;</button>
         </div>
