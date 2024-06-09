@@ -268,6 +268,10 @@ body {
     height: fit-content;
 }
 
+.slide img{
+    width: 80vw;
+}
+
 /* 2024 projecten */
 .projecten1 h1 {
     margin-top: 7vh;

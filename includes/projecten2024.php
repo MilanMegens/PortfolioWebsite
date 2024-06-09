@@ -4,88 +4,16 @@
         <div class="slide">
             <div class="gebruiker">
                 <div class="gebruiker-info">
-                    <h3>voorbeeld site 1</h3>
+                    <h3>Project leerjaar 1 periode 3</h3>
                 </div>
             </div>
-            <img src="content/voorbeeldsite.png" alt="">
+            <img src="content/linkedin_logo2.png" alt="">
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt harum sunt
-                consequatur soluta fugit repudiandae distinctio delectus consequuntur? Eligendi
-                consectetur molestiae numquam enim voluptatibus ad ratione, repudiandae porro obcaecati earum.
+                In periode 3 van leerjaar 1 op het MBO. We moesten met behulp van PHP
+                een vragenlijst maken en wij hebben een vacature advies vragenlijst gemaakt.
+                Ik heb de meeste PHP gedaan in het project en mijn teamgenoten vooral de css en html.
             </p>
-            <button onclick="window.location.href='#'">Bekijk project &#x2192;</button>
-        </div>
-    </div>
-
-    <!--Project 2-->
-    <div class="slide-container">
-        <div class="slide">
-            <div class="gebruiker">
-                <div class="gebruiker-info">
-                    <h3>voorbeeld site 2</h3>
-                </div>
-            </div>
-            <img src="content/voorbeeldsite.png" alt="">
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt harum sunt
-                consequatur soluta fugit repudiandae distinctio delectus consequuntur? Eligendi
-                consectetur molestiae numquam enim voluptatibus ad ratione, repudiandae porro obcaecati earum.
-            </p>
-            <button onclick="window.location.href='#'">Bekijk project &#x2192;</button>
-        </div>
-    </div>
-
-    <!--Project 3-->
-    <div class="slide-container">
-        <div class="slide">
-            <div class="gebruiker">
-                <div class="gebruiker-info">
-                    <h3>voorbeeld site 3</h3>
-                </div>
-            </div>
-            <img src="content/voorbeeldsite.png" alt="">
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt harum sunt
-                consequatur soluta fugit repudiandae distinctio delectus consequuntur? Eligendi
-                consectetur molestiae numquam enim voluptatibus ad ratione, repudiandae porro obcaecati earum.
-            </p>
-            <button onclick="window.location.href='#'">Bekijk project &#x2192;</button>
-        </div>
-    </div>
-
-    <!--Project 4-->
-    <div class="slide-container">
-        <div class="slide">
-            <div class="gebruiker">
-                <div class="gebruiker-info">
-                    <h3>voorbeeld site 4</h3>
-                </div>
-            </div>
-            <img src="content/voorbeeldsite.png" alt="">
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt harum sunt
-                consequatur soluta fugit repudiandae distinctio delectus consequuntur? Eligendi
-                consectetur molestiae numquam enim voluptatibus ad ratione, repudiandae porro obcaecati earum.
-            </p>
-            <button onclick="window.location.href='#'">Bekijk project &#x2192;</button>
-        </div>
-    </div>
-
-    <!--Project 5-->
-    <div class="slide-container">
-        <div class="slide">
-            <div class="gebruiker">
-                <div class="gebruiker-info">
-                    <h3>voorbeeld site 5</h3>
-                </div>
-            </div>
-            <img src="content/voorbeeldsite.png" alt="">
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt harum sunt
-                consequatur soluta fugit repudiandae distinctio delectus consequuntur? Eligendi
-                consectetur molestiae numquam enim voluptatibus ad ratione, repudiandae porro obcaecati earum.
-            </p>
-            <button onclick="window.location.href='#'">Bekijk project &#x2192;</button>
+            <button onclick="window.open('websites/linkedin/Voorpagina.php', '_blank')">Bekijk project &#x2192;</button>
         </div>
     </div>
 

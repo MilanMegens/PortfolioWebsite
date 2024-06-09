@@ -1,0 +1,54 @@
+body{
+    background-color: #f5f5f5;
+    zoom: 100%;
+}
+
+.main{
+    max-width: 50%;
+    text-align: center;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    Margin-top: 50px;
+}
+
+.thema{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    width: 200px;
+    border-radius: 10px;
+    height: 130px;
+}
+
+#box{
+    margin-left: 140px;
+}
+
+#br{
+    font-size: 14px;
+}
+
+#top{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 40px;
+    margin-left: 200px;
+}
+
+a, a:visited{
+    text-decoration: none;
+}
