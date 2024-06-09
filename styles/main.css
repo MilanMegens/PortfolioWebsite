@@ -34,7 +34,7 @@ body {
     justify-content: center;
     padding: auto;
     margin-top: 4vh;
-    margin-left: 7vw;
+    margin-left: 5vw;
     width: 150px;
     height: 50px;
     border-radius: 10px;
@@ -47,7 +47,7 @@ body {
     flex-direction: column;
     margin-left: auto;
     margin-right: auto;
-    width: 350px;
+    width: 90vw;
 }
 
 .main3 h1 {
@@ -490,6 +490,7 @@ body {
     .eerste_deel{
         display: flex;
         flex-direction: row-reverse;
+        justify-content: center;
     }
 
     .main2{
@@ -528,7 +529,7 @@ body {
 
     /* Vaardigheden */
     .vaardigheden{
-        margin-top: 15vh;
+        margin-top: 20vh;
     }
 
     .vaard1{
@@ -571,6 +572,7 @@ body {
         display: flex;
         flex-direction: row;
         margin-bottom: 15vh;
+        justify-content: center;
     }
 
     .idk img{
@@ -648,5 +650,49 @@ body {
 
     .lijntje3{
         width: 60vw;
+    }
+
+    .mail,
+    .loca{
+        width: 30vw;
+        padding: 0;
+        margin-top: 3vh;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .conta1{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .conta2{
+        margin-right: auto;
+        margin-top: 10vh;
+    }
+
+    .form-container{
+        width: 40vw;
+    }
+
+    .form-container input,
+    .form-container textarea,
+    .form-container button{
+        width: 38vw;
+    }
+
+    .knoppuh{
+        display: flex;
+        justify-content: center;
+    }
+
+    .container #prev{
+        margin-left: 0 !important;
+        margin-right: 2vw;
+    }
+
+    .container #next{
+        margin-right: 0 !important;
+        margin-left: 2vw;
     }
 }

@@ -1,7 +1,9 @@
 <div class="container">
     <!--Knoppen om naar volgende of vorige te gaan-->
-    <div id="prev" class="fas fa-chevron-left" onclick="prev()"></div>
-    <div id="next" class="fas fa-chevron-right" onclick="next()"></div>
+    <div class="knoppuh">
+        <div id="prev" class="fas fa-chevron-left" onclick="prev()"></div>
+        <div id="next" class="fas fa-chevron-right" onclick="next()"></div>
+    </div>
 
     <hr class="lijntje">
     
