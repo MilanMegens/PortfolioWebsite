@@ -40,24 +40,6 @@ footer {
     color: #666666;
 }
 
-.footer-images2{
-    display: none;
-}
-
-/* Desktop CSS */
-@media (min-width: 48em) {
-    .footer-images2{
-        display: block;
-        justify-content: center;
-    }
-
-    .footer-images2 img{
-        padding: 10px;
-        height: 27px;
-        width: fit-content;
-    }
-}
-
 /* Lijntje */
 .lijntje{
     border: none;

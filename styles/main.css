@@ -56,6 +56,7 @@ body {
 
 .main3 p {
     font-size: 16px;
+    width: 40vw;
 }
 
 /* Main 4 */
@@ -465,4 +466,89 @@ body {
 .tekst a{
     text-decoration: none;
     color: #000;
+}
+
+
+/* Desktop CSS */
+@media (min-width: 426px) {
+    .pf1{
+        width: 600px;
+        height: fit-content;
+    }
+
+    .info1{
+        width: 55vw;
+        margin-top: 10vh;
+    }
+
+    .eerste_deel{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .main2{
+        margin-left: 0vh;
+    }
+
+    .main3{
+        width: 60vw;
+    }
+
+    .main4{
+        justify-content: left;
+    }
+
+    .main5,
+    .main6{
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        width: 60vw;
+        margin-top: 0;
+    }
+
+    .main56{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        background-color: #fff;
+        border-radius: 6px;
+        margin-top: 4vh;
+    }
+
+    /* Vaardigheden */
+    .vaardigheden{
+        margin-top: 15vh;
+    }
+
+    .vaard1{
+        display: flex;
+        flex-direction: row;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .vaard1 .blok{
+        margin: 10px;
+    }
+
+    .vaard2{
+        display: flex;
+        flex-direction: row;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .vaard2 .blok{
+        margin: 10px;
+    }
+
+    /* reviews */
+    .reviews{
+        margin-top: 15vh;
+    }
+
+    .container .slide-container .slide{
+        width: 50vw;
+    }
 }

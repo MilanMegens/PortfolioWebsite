@@ -12,10 +12,5 @@
                 <a href="portfolio.php">Portfolio</a>
                 <a href="contact.php">Contact</a>
             </div>
-            <div class="footer-images2">
-                <a href=""><img src="content/contact1.png" alt="Image 4"></a>
-                <img src="content/contact2.png" alt="Image 5">
-                <img src="content/contact3.png" alt="Image 6">
-            </div>
         </footer>
     </div>
