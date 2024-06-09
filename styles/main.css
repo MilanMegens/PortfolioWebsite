@@ -252,7 +252,7 @@ body {
 .portinfo {
     background-color: #fff;
     width: 90vw;
-    height: 200px;
+    height: 360px;
     margin-top: 6vh;
     border-radius: 10px;
     margin-left: auto;
@@ -291,7 +291,7 @@ body {
 .contact {
     background-color: #fff;
     width: 90vw;
-    height: 360px;
+    height: 200px;
     margin-top: 6vh;
     border-radius: 10px;
     margin-left: auto;

@@ -57,7 +57,7 @@
 
         <!--Blokjes met info-->
         <div class="main5">
-            <h1>5<span class="paars">+</span></h1>
+            <h1>1<span class="paars">+</span></h1>
             <p>Gemaakte projecten</p>
         </div>
 

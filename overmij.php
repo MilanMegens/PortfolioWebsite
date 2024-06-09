@@ -57,7 +57,7 @@
     <!--projecten blokjes ofzo-->
     <div class="overmij3">
         <div class="overmij4">
-            <h1>5<span class="paars">+</span></h1>
+            <h1>1<span class="paars">+</span></h1>
             <p>Gemaakte projecten</p>
         </div>
 

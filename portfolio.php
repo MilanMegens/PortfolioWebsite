@@ -30,6 +30,14 @@
     <div class="portinfo">
         <img src="content/portinfo_logo.png" alt="">
         <h1>Mijn portfolio</h1>
+        <div class="gempro">
+            <img src="content/vinkie.png" alt="">
+            <p>1+ Gemaakte projecten</p>
+        </div>
+        <div class="erv">
+            <img src="content/ervaring_logo.png" alt="">
+            <p>10+ Maanden ervaring</p>
+        </div>
     </div>
 
     <div class="projecten1">

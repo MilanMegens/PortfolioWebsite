@@ -63,23 +63,4 @@
             </p>
         </div>
     </div>
-
-    <!--Review 4-->
-    <div class="slide-container">
-        <div class="slide">
-            <i class="fas fa-quote-right icon"></i>
-            <div class="gebruiker">
-                <div class="gebruiker-info">
-                    <h3>Naampie 4</h3>
-                    <div class="func">
-                        <p>Vriend</p>
-                    </div>
-                </div>
-            </div>
-            <p class="tekst">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus nostrum, porro neque eum rem saepe?
-                Numquam, quod vero voluptas ipsum quibusdam, temporibus veniam maiores doloribus nam ipsa ex! Fuga, porro.
-            </p>
-        </div>
-    </div>
 </div>

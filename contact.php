@@ -23,14 +23,6 @@
         <img class="contact_logo" src="content/contact_logo.png" alt="">
         <h1>Contact</h1>
         <p>Voel je vrij om mij te contacteren</p>
-        <div class="gempro">
-            <img src="content/vinkie.png" alt="">
-            <p>5+ Gemaakte projecten</p>
-        </div>
-        <div class="erv">
-            <img src="content/ervaring_logo.png" alt="">
-            <p>10+ Maanden ervaring</p>
-        </div>
     </div>
 
     <!--Contact formulier-->
