@@ -56,7 +56,7 @@ body {
 
 .main3 p {
     font-size: 16px;
-    width: 40vw;
+    width: 90vw;
 }
 
 /* Main 4 */
@@ -233,6 +233,12 @@ body {
     width: 80vw;
 }
 
+.lijntje3{
+    border: none;
+    border-top: 1px solid #D4D4D4;
+    border-radius: 10px;
+    width: 80vw;
+}
 /* Timeline ding */
 .tijdlijn {
     margin-top: 10vh;
@@ -494,6 +500,10 @@ body {
         width: 60vw;
     }
 
+    .main3 p{
+        width: 40vw;
+    }
+
     .main4{
         justify-content: left;
     }
@@ -549,6 +559,94 @@ body {
     }
 
     .container .slide-container .slide{
-        width: 50vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 35vw !important;
+    }
+
+    /* overmij */
+    .idk{
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 15vh;
+    }
+
+    .idk img{
+        margin-top: 8vh;
+        margin-left: 3vw;
+        width: 600px;
+        height: fit-content;
+    }
+
+    .overmij2{
+        margin-top: 4vh;
+        width: 40vw;
+        margin-left: 5vw;
+    }
+
+    .overmij3{
+        margin-left: 5vw;
+        width: 40vw;
+    }
+
+    .overmij4,
+    .overmij5{
+        margin-top: 0;
+        width: 20vw;
+    }
+
+    .lijntje2{
+        display: none;
+    }
+
+    /* Portfolio */
+    .projecten1{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .blokkies{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .gempro,
+    .erv{
+        margin-top: 0;
+        width: 240px;
+    }
+
+    .gempro{
+        margin-right: 10px;
+    }
+
+    .erv{
+        margin-left: 10px;
+    }
+
+    .projecten1{
+        width: 60vw;
+    }
+
+    .slide-container .slide img{
+        width: 300px !important;
+    }
+    .slide-container p{
+        width: 300px;
+    }
+
+    .container .slide-container{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .slide-container .slide button{
+        margin-left: 0 !important;
+    }
+
+    .lijntje3{
+        width: 60vw;
     }
 }
