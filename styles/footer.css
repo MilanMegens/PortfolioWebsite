@@ -1,0 +1,67 @@
+/* Flexbox wrapper to hold the content and footer */
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Footer styling */
+footer {
+    position: sticky; 
+    bottom: 0; 
+    background-color: #EEEBE5;
+    color: #1A1A1A;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-images {
+    margin-bottom: 20px;
+}
+
+.footer-images img {
+    margin: 0 10px;
+    width: 40px;
+    height: auto;
+}
+
+.footer-links {
+    margin-top: 10px;
+}
+
+.footer-links a {
+    color: #1A1A1A;
+    font-weight: 550;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: #666666;
+}
+
+.footer-images2{
+    display: none;
+}
+
+/* Desktop CSS */
+@media (min-width: 48em) {
+    .footer-images2{
+        display: block;
+        justify-content: center;
+    }
+
+    .footer-images2 img{
+        padding: 10px;
+        height: 27px;
+        width: fit-content;
+    }
+}
+
+/* Lijntje */
+.lijntje{
+    border: none;
+    border-top: 1px solid #D4D4D4;
+    border-radius: 10px;
+    width: 90vw;
+}

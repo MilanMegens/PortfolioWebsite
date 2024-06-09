@@ -1,0 +1,464 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding-top: 40px;
+    height: 100%;
+    background-color: #EEEBE5;
+    color: #1A1A1A;
+    font-family: "Manrope", sans-serif;
+    overflow-x: hidden;
+}
+
+/* Startpagina */
+/* Main 1 */
+.main1 {
+    display: flex;
+    justify-content: center;
+}
+
+.pf1 {
+    margin-top: 6vh;
+    width: 90vw;
+    height: fit-content;
+}
+
+/* Main 2  */
+.main2 {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    padding: auto;
+    margin-top: 4vh;
+    margin-left: 7vw;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+/* Main 3 */
+.main3 {
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+
+.main3 h1 {
+    font-size: 38px;
+}
+
+.main3 p {
+    font-size: 16px;
+}
+
+/* Main 4 */
+.main4 {
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.main4 a {
+    color: #1A1A1A;
+    text-decoration: none;
+}
+
+/* Main 5 en 6*/
+.main5 {
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    width: 90vw;
+    height: 90px;
+    line-height: 0px;
+    border-radius: 10px;
+}
+
+.main6 {
+    margin-top: 1vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    width: 90vw;
+    height: 90px;
+    line-height: 0px;
+    border-radius: 10px;
+}
+
+.paars {
+    color: #5700FF;
+}
+
+/* Vaardigheden */
+.vaardigheden h1 {
+    margin-top: 5vh;
+    text-align: center;
+}
+
+.blok {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    line-height: 0px;
+    border-radius: 10px;
+    width: 90vw;
+    background-color: #fff;
+}
+
+.blok img {
+    width: 50px;
+    height: fit-content;
+}
+
+.blok h1 {
+    margin-top: 2vh;
+    text-align: center;
+    line-height: 30px;
+}
+
+.blok p {
+    margin: 0;
+    line-height: 20px;
+}
+
+
+
+/* review stuk */
+.reviews h1 {
+    margin-top: 8vh;
+    text-align: center;
+}
+
+
+/* Over mij pagina */
+/* Over mij 1 */
+.overmij1 {
+    display: flex;
+    justify-content: center;
+}
+
+.pf2 {
+    margin-top: 6vh;
+    width: 350px;
+    height: fit-content;
+}
+
+/* Over mij 2 */
+.overmij2 {
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90vw;
+}
+
+.overmij2 h1 {
+    width: 95vw;
+    font-size: 38px;
+}
+
+.overmij2 p {
+    font-size: 16px;
+}
+
+/* Over mij 3, 4 en 5 */
+.overmij3 {
+    background-color: #fff;
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.overmij4 {
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #fff;
+    width: 90vw;
+    height: 90px;
+    line-height: 0px;
+    border-radius: 10px;
+}
+
+.overmij5 {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #fff;
+    width: 90vw;
+    height: 90px;
+    line-height: 0px;
+    border-radius: 10px;
+}
+
+.overmij4 h1,
+.overmij5 h1 {
+    font-size: 48px;
+}
+
+.lijntje2 {
+    border: none;
+    border-top: 1px solid #D4D4D4;
+    border-radius: 10px;
+    width: 80vw;
+}
+
+/* Timeline ding */
+.tijdlijn {
+    margin-top: 10vh;
+    text-align: center;
+}
+
+.tijdlijn h1,
+.tijdlijn p {
+    line-height: 10px;
+}
+
+.tijdlijn p {
+    margin-bottom: 7vh;
+}
+
+/* Portfolio pagina */
+/* Portfolio info */
+.portinfo {
+    background-color: #fff;
+    width: 90vw;
+    height: 200px;
+    margin-top: 6vh;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.portinfo img {
+    width: 50px;
+    height: fit-content;
+}
+
+/* 2024 projecten */
+.projecten1 h1 {
+    margin-top: 7vh;
+    text-align: center;
+    font-size: 18px;
+}
+
+/* Contact pagina */
+.contact {
+    display: flex;
+    justify-content: center;
+}
+
+.contact2 {
+    margin-top: 10vh;
+    width: 90vw;
+    height: fit-content;
+}
+
+/* contact info */
+.contact {
+    background-color: #fff;
+    width: 90vw;
+    height: 360px;
+    margin-top: 6vh;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact_logo {
+    width: 50px;
+    height: fit-content;
+    margin-bottom: 3vh
+}
+
+.contact h1,
+.contact p{
+    line-height: 0px;
+}
+
+/* Gemaakte projecten stukje ofzo */
+.gempro{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3vh;
+    font-weight: 500;
+    width: 80vw;
+    height: 50px;
+    border: 1px solid #EBE7E0;
+    border-radius: 6px;
+}
+
+.gempro img{
+    width: 25px;
+    height: fit-content;
+    margin-right: 5px;
+}
+
+/* Maanden ervaring stukje ofzo */
+.erv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+    font-weight: 500;
+    width: 80vw;
+    height: 50px;
+    border: 1px solid #EBE7E0;
+    border-radius: 6px;
+}
+
+.erv img{
+    width: 25px;
+    height: fit-content;
+    margin-right: 5px;
+}
+
+/* Contact formulier */
+.form-container {
+    margin-top: 5vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    width: 90vw;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.form-container h2 {
+    margin-bottom: 20px;
+}
+
+.form-container label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.form-container input,
+.form-container textarea {
+    width: 80vw;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #F5F3F0;
+    border: 1px solid #EBE7E0;
+    border-radius: 4px;
+}
+
+.form-container button {
+    width: 80vw;
+    height: 50px;
+    background-color: #5700FF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.form-container button:hover {
+    background-color: #4400cc;
+}
+
+/* Contact Blokjes */
+/* Mail */
+.mail{
+    margin-top: 5vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: #fff;
+    width: 90vw;
+    height: 90px;
+    border-radius: 6px;
+}
+
+.mail .tekst p{
+    line-height: 10px;
+    margin-left: 3vw;
+}
+
+/* Locatie */
+.loca{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: #fff;
+    width: 90vw;
+    height: 90px;
+    border-radius: 6px;
+}
+
+.loca .tekst p{
+    line-height: 10px;
+    margin-left: 3vw;
+}
+
+/* Overig */
+.pijl-knop{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 6px;
+    border: 1px solid #E1DBD1;
+    margin-right: 3vw;
+    width: 40px;
+    height: 40px;
+    
+}
+
+.pijl-knop a,
+.tekst a{
+    text-decoration: none;
+    color: #000;
+}
