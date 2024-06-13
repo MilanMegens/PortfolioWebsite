@@ -6,9 +6,30 @@
     </div>
 
     <hr class="lijntje">
-    
+
     <!--Review 1-->
     <div class="slide-container">
+        <div class="slide">
+            <i class="fas fa-quote-right icon"></i>
+            <div class="gebruiker">
+                <div class="gebruiker-info">
+                    <h3>Ian Robeerst</h3>
+                    <div class="func">
+                        <p>Leeraar programmeren MBO</p>
+                    </div>
+                </div>
+            </div>
+            <p class="tekst">
+                Milan is een gemotiveerde student die graag nieuwe technieken leert en direct
+                toepast in het maken van diverse, humoristische interactieve projecten.
+                Hij is een serieuze en enthousiaste leerling die altijd een positieve bijdrage levert in
+                de klas. Zijn creativiteit en doorzettingsvermogen maken hem een waardevolle en inspirerende medestudent.
+            </p>
+        </div>
+    </div>
+    
+    <!--Review 2-->
+    <div class="slide-container active">
         <div class="slide">
             <i class="fas fa-quote-right icon"></i>
             <div class="gebruiker">
@@ -27,7 +48,7 @@
         </div>
     </div>
 
-    <!--Review 2-->
+    <!--Review 3-->
     <div class="slide-container">
         <div class="slide">
             <i class="fas fa-quote-right icon"></i>
@@ -47,7 +68,7 @@
         </div>
     </div>
 
-    <!--Review 3-->
+    <!--Review 4-->
     <div class="slide-container">
         <div class="slide">
             <i class="fas fa-quote-right icon"></i>
@@ -62,27 +83,6 @@
             <p class="tekst">
                 Milan is erg fijn om mee samen te werken. Hij is erg professioneel
                 en hij kan zich goed focussen op zijn werk.
-            </p>
-        </div>
-    </div>
-    
-    <!--Review 4-->
-    <div class="slide-container active">
-        <div class="slide">
-            <i class="fas fa-quote-right icon"></i>
-            <div class="gebruiker">
-                <div class="gebruiker-info">
-                    <h3>Ian Robeerst</h3>
-                    <div class="func">
-                        <p>Leeraar programmeren MBO</p>
-                    </div>
-                </div>
-            </div>
-            <p class="tekst">
-                Milan is een gemotiveerde student die graag nieuwe technieken leert en direct
-                toepast in het maken van diverse, humoristische interactieve projecten.
-                Hij is een serieuze en enthousiaste leerling die altijd een positieve bijdrage levert in
-                de klas. Zijn creativiteit en doorzettingsvermogen maken hem een waardevolle en inspirerende medestudent.
             </p>
         </div>
     </div>
