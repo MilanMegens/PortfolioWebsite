@@ -8,7 +8,7 @@
     <hr class="lijntje">
 
     <!--Review 1-->
-    <div class="slide-container">
+    <div class="slide-container active">
         <div class="slide">
             <i class="fas fa-quote-right icon"></i>
             <div class="gebruiker">
@@ -29,7 +29,7 @@
     </div>
     
     <!--Review 2-->
-    <div class="slide-container active">
+    <div class="slide-container">
         <div class="slide">
             <i class="fas fa-quote-right icon"></i>
             <div class="gebruiker">
